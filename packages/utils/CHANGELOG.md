@@ -1,5 +1,11 @@
 # @graphql-tools/utils
 
+## 8.11.0
+
+### Minor Changes
+
+- [#4661](https://github.com/ardatan/graphql-tools/pull/4661) [`403ed450`](https://github.com/ardatan/graphql-tools/commit/403ed4507eff7cd509f410f7542a702da72e1a9a) Thanks [@nicolaslt](https://github.com/nicolaslt)! - Add getArgumentsWithDirectives
+
 ## 8.10.1
 
 ### Patch Changes
